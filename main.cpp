@@ -2,7 +2,7 @@
 using namespace std;
 
 //ORDENAMIENTO POR SELECCIÓN
-
+//
 void ordenar(int a[], int n);
 
 int main()
